@@ -6,7 +6,7 @@ In this project we finished the code to create a notetaker app. The frontend of 
 
 ## Repository
 
-Link to render: 
+Link to render: https://note-taker-wjr.onrender.com
 
 ## Technologies
 
