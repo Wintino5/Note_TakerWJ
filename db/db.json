@@ -1,6 +1,12 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "id": "745a03f4-2838-4f73-99e5-3f2ed52cef3f",
+    "title": "Dream",
+    "text": "I had a dream"
+  },
+  {
+    "id": "d414640c-582d-4bb9-946b-060e7fe5b968",
+    "title": "See Doctor",
+    "text": "Make an appointment"
+  }
 ]
